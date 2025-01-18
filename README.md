@@ -1,2 +1,2 @@
-# kotrana-CSS-part2 
-# In development => [https://dazzling-figolla-3b193a.netlify.app/]
+# kotrana-CSS-part3
+# In development => [https://kotrana-part-2.netlify.app/]
